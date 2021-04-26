@@ -1,8 +1,8 @@
 ### Birb
 
-Help Birb get to her friends before dusk.
+Help Birb get to her friends before dusk. Use arrows to navigate Birb through the maze and get to her friends. Use space to flap wings.
 
-Use arrows to navigate Birb through the maze and get to her friends. Use space to flap wings.
+Game page on itch.io: https://torkut.itch.io/birb
 
 This game was written during [Spring Lisp Game Jam 2021](https://itch.io/jam/spring-lisp-game-jam-2021 "Spring Lisp Game Jam 2021") with [Chickadee](https://dthompson.us/projects/chickadee.html "Chickadee") game development toolkit for Guile Scheme. This is my first attempt to code with any language from Lisp-family and the first game overall.
 
@@ -13,7 +13,7 @@ TODO: I'll try to finish it later with generated mazes, interaction with charact
 
 ### Run
 
-1. Go to [Releases](https://github.com/kierros/birb/releases) and dowload tarball with all dependencies `birb-0.1-guix-pack.tar.gz`
+1. Go to [Releases](https://github.com/kierros/birb/releases) and download tarball with all dependencies `birb-0.1-guix-pack.tar.gz`
 2. Unpack the tarball 
 `tar -xf birb-0.1-guix-pack.tar.gz`
 3. Run the executable 
